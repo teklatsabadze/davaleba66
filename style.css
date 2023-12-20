@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    width: 230px;
+    height: 297px;
+    border: 2px solid grey;
+    background: #FFF;
+    overflow-x: scroll;
+}
